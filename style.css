@@ -1,0 +1,32 @@
+body {
+    min-height: 100%;
+    position: relative;
+    padding-top: 40px;
+}
+
+a#hyperlink {
+  color: #003399;
+}
+
+h3 {
+  margin-top: 1.6ex;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding-top: 26px;
+  }
+
+  h2 {
+    margin-top: 1.4ex;
+    margin-bottom: 1.4ex;
+    font-size: 35px;
+  }
+  h3 {
+    font-size: 25px;
+  }
+}
+
+footer.page-footer  {
+    background-color: #112662;
+}
