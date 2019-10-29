@@ -12,6 +12,11 @@ a#downloads {
   color: #003399;
 }
 
+h2 {
+  margin-top: 2.0ex;
+  margin-bottom: 2.0ex;
+}
+
 h3 {
   margin-top: 1.6ex;
 }
@@ -22,12 +27,17 @@ h3 {
   }
 
   h2 {
-    margin-top: 1.4ex;
-    margin-bottom: 1.4ex;
+    margin-top: 2.0ex;
+    margin-bottom: 1.8ex;
     font-size: 35px;
   }
   h3 {
+    margin-top: 2.0ex;
+    margin-bottom: 1.8ex;
     font-size: 25px;
+  }
+  .row {
+    margin: 0;
   }
 }
 
