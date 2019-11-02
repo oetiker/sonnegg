@@ -12,6 +12,14 @@ a#downloads {
   color: #003399;
 }
 
+a#hyperlink:hover {
+  color: #61c44b;
+}
+
+a#downloads:hover {
+  color: #61c44b;
+}
+
 h2 {
   margin-top: 2.0ex;
   margin-bottom: 2.0ex;
